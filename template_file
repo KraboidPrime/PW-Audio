@@ -1659,7 +1659,7 @@
 <cone_outside_volumedb>0</cone_outside_volumedb>
 <doppler_scale>1</doppler_scale>
 <reverbdrylevel_db>0</reverbdrylevel_db>
-<reverblevel_db>0</reverblevel_db>
+<reverblevel_db>-50</reverblevel_db>
 <speaker_spread>0</speaker_spread>
 <panlevel3d>1</panlevel3d>
 <fadein_time>0</fadein_time>
